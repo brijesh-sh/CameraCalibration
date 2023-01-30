@@ -6,9 +6,11 @@ This code uses the OpenCV library to perform camera calibration on a set of imag
 ## Dependencies
 This code requires the following libraries:
 
--OpenCV
--NumPy
--Matplotlib
+-OpenCV__
+-NumPy__
+-Matplotlib__
+-os__
+-pickle__
 
 ## Usage
 Obtain a set of images with a known chessboard pattern.
