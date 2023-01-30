@@ -27,3 +27,6 @@ The reprojection errors are then calculated by comparing the original 3D points 
 Finally, the reprojection errors are plotted on scatter plots, with the x and y coordinates of the 2D points on the x and y axes, respectively, and the color of the points representing the error values. The plot for the camera with a dome distortion is shown on the left, and the plot for the camera without a dome distortion is on the right. The plot is saved as "reprojection_error_distribution.pdf" in the output path.
 
 The code shows that the reprojection errors are higher for the camera with a dome distortion, indicating that the dome distortion affects the accuracy of the camera model.
+
+![alt text](https://github.com/bridges77/CameraCalibration/blob/main/reprojection_error_distribution-1.png)
+
